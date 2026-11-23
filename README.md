@@ -192,5 +192,3 @@ The source code of this project is licensed under the [GNU General Public Licens
 The name "Kate," the logo, screenshots, and all related branding assets are **trademarks** or **proprietary assets** of the author and are **not licensed under the GPL**. Using them requires explicit permission from the author.
 
 The libraries used in Kate keep their own licenses. See [Attribution.md](Attribution.md) for the full list.
-# Kate
-# Kate
