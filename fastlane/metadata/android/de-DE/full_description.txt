@@ -1,0 +1,43 @@
+Kate ist ein Open-Source-Musikplayer für die Songs, die schon auf deinem Handy sind. Ohne Konto, ohne Streaming, ohne Werbung. Nur deine Bibliothek – mit großartigem Klang, synchronen Songtexten und einem Look, den du komplett nach deinen Wünschen gestalten kannst.
+
+<b>Sieht aus wie du</b>
+• Sechs Player-Layouts: Klassisch, Großes Cover, Minimal, Vinyl, Kassette und Karte
+• Fünf Suchleisten, darunter eine Wellenform, die aus jedem Song berechnet wird
+• Ein Visualizer hinter dem Player, im Mini-Player oder hinter den Songtexten
+• Dutzende Akzentfarben, Material You oder Farben aus dem Albumcover
+• Eigene Themes und Stile mit Live-Vorschau erstellen und als Datei teilen
+• Eigene Schriften, Schaltflächenstile, Symbole und Schriftgröße
+
+<b>Klang</b>
+• Equalizer mit Voreinstellungen, Bass- und Höhenanhebung sowie ein parametrischer Erweiterter EQ mit AutoEQ-Profilen
+• Ein eigener EQ für Lautsprecher, kabelgebundene Kopfhörer, Bluetooth und USB-Audio
+• Ein EQ, der der Musik folgt: Verknüpfe ihn mit einem Song, Album, Ordner oder Genre
+• Crossfeed, Dynamik mit Nachtmodus, Lautstärkekorrektur und Limiter
+• ReplayGain, Überblenden, lückenlose Alben und Geschwindigkeitsänderung ohne Tonhöhenverschiebung
+• Optionale native Audio-Engine (Oboe), Hi-Res-Ausgabe und Bit-Perfect-USB-Ausgabe ab Android 14
+
+<b>Songtexte</b>
+• Synchrone Songtexte aus Tags oder .lrc-Dateien, Wort für Wort hervorgehoben
+• Optionale Online-Suche nach Songtexten, im Song gespeichert und damit auch offline verfügbar
+• Eigene synchrone Songtexte erstellen, indem du beim Abspielen im Takt tippst
+• Beliebige Zeilen als Songtext-Karte teilen
+
+<b>Bibliothek</b>
+• Du wählst die Ordner selbst, SD-Karten funktionieren also problemlos
+• Stöbern nach Songs, Alben, Interpreten, Genres, Ordnern, Jahren und zuletzt hinzugefügten Titeln
+• Intelligente Playlists sowie M3U-Import und -Export
+• Tag-Editor mit optionaler Online-Suche
+
+<b>Wiedergabe und Statistiken</b>
+• Sechs Zufallsmodi und Kate Radio, das mit ähnlichen Songs aus deiner Bibliothek weiterspielt
+• Meistgespielte Songs, Interpreten, Alben und Genres sowie eine Wrapped-Story für jede Woche, jeden Monat oder jedes Jahr
+• Erfolge wie Nachteule und Album-Finisher
+• Der Hörverlauf bleibt auf deinem Gerät, und du kannst ihn ausschalten oder löschen
+
+<b>Überall dabei</b>
+• Vier Widgets für den Startbildschirm und Android Auto
+• Headset-Tastenaktionen für einfaches, doppeltes, dreifaches und langes Drücken
+• Zwei-Fenster-Layout auf Tablets, Foldables und breiten Bildschirmen
+• Sichern und Wiederherstellen von Einstellungen, Playlists, Favoriten und Verlauf
+
+Kate benötigt Android 8.0 oder neuer.

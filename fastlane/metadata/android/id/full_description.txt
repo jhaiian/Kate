@@ -1,0 +1,43 @@
+Kate adalah pemutar musik sumber terbuka untuk lagu-lagu yang sudah ada di ponsel Anda. Tanpa akun, tanpa streaming, tanpa iklan. Hanya pustaka musik Anda, dengan suara yang mantap, lirik sinkron, dan tampilan yang bisa Anda atur sepenuhnya.
+
+<b>Tampilan sesuai selera</b>
+• Enam tata letak pemutar: Classic, Big Art, Minimal, Vinyl, Cassette, dan Card
+• Lima bilah putar, termasuk bentuk gelombang yang dihitung dari setiap lagu
+• Visualizer di belakang pemutar, di pemutar mini, atau di belakang lirik
+• Puluhan warna aksen, Material You, atau warna yang diambil dari sampul album
+• Buat tema dan gaya sendiri dengan pratinjau langsung, lalu bagikan sebagai berkas
+• Font, gaya tombol, ikon, dan ukuran teks pilihan Anda
+
+<b>Suara</b>
+• Equalizer dengan preset, penguat bass dan treble, serta EQ Lanjutan parametrik yang mendukung profil AutoEQ
+• EQ terpisah untuk speaker, headphone kabel, Bluetooth, dan audio USB
+• EQ yang mengikuti musik: tautkan ke lagu, album, folder, atau genre
+• Crossfeed, dinamika dengan mode malam, kompensasi loudness, dan limiter
+• ReplayGain, crossfade, album tanpa jeda, dan pengaturan kecepatan tanpa mengubah nada
+• Mesin audio native opsional (Oboe), output resolusi tinggi, dan output USB bit-perfect di Android 14 ke atas
+
+<b>Lirik</b>
+• Lirik sinkron dari tag atau berkas .lrc, disorot kata demi kata
+• Pencarian lirik online opsional, disimpan ke dalam lagu agar tetap bisa dipakai offline
+• Buat lirik sinkron sendiri dengan mengetuk layar saat lagu diputar
+• Bagikan baris mana pun sebagai gambar kartu lirik
+
+<b>Pustaka</b>
+• Anda yang memilih folder, jadi kartu SD langsung terbaca
+• Jelajahi berdasarkan lagu, album, artis, genre, folder, tahun, dan yang baru ditambahkan
+• Daftar putar pintar, plus impor dan ekspor M3U
+• Editor tag dengan pencarian online opsional
+
+<b>Pemutaran dan statistik</b>
+• Enam mode acak dan Kate Radio, yang terus memutar lagu serupa dari pustaka Anda
+• Lagu, artis, album, dan genre teratas, plus rangkuman Wrapped untuk minggu, bulan, atau tahun mana pun
+• Pencapaian seperti Night Owl dan Album Finisher
+• Riwayat dengar hanya tersimpan di perangkat Anda, dan bisa dimatikan atau dihapus
+
+<b>Di mana saja</b>
+• Empat widget layar utama dan Android Auto
+• Aksi tombol headset untuk tekan sekali, dua kali, tiga kali, dan tekan lama
+• Tata letak dua panel di tablet, ponsel lipat, dan layar lebar
+• Cadangkan dan pulihkan setelan, daftar putar, favorit, dan riwayat Anda
+
+Kate memerlukan Android 8.0 atau yang lebih baru.

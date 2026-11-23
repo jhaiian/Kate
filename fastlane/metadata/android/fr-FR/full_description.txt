@@ -1,0 +1,43 @@
+Kate est un lecteur de musique open source pour les morceaux déjà présents sur votre téléphone. Pas de compte, pas de streaming, pas de publicité. Juste votre bibliothèque, avec un super son, des paroles synchronisées et une apparence que vous pouvez entièrement personnaliser.
+
+<b>Une interface à votre image</b>
+• Six dispositions de lecteur : Classique, Grande pochette, Minimaliste, Vinyle, Cassette et Carte
+• Cinq barres de progression, dont une forme d'onde calculée à partir de chaque morceau
+• Un visualiseur derrière le lecteur, dans le mini-lecteur ou derrière les paroles
+• Des dizaines de couleurs d'accent, Material You, ou des couleurs tirées de la pochette de l'album
+• Créez vos propres thèmes et styles avec un aperçu en direct, puis partagez-les sous forme de fichier
+• Vos propres polices, styles de boutons, icônes et taille de texte
+
+<b>Son</b>
+• Égaliseur avec préréglages, renforcement des basses et des aigus, et égaliseur paramétrique avancé compatible avec les profils AutoEQ
+• Un égaliseur distinct pour le haut-parleur, le casque filaire, le Bluetooth et l'audio USB
+• Un égaliseur qui suit la musique : associez-le à un morceau, un album, un dossier ou un genre
+• Crossfeed, dynamique avec mode nuit, compensation de sonie et limiteur
+• ReplayGain, fondu enchaîné, albums sans interruption et changement de vitesse sans modifier la hauteur
+• Moteur audio natif facultatif (Oboe), sortie haute résolution et sortie USB bit-perfect sur Android 14 et versions ultérieures
+
+<b>Paroles</b>
+• Paroles synchronisées issues des tags ou de fichiers .lrc, mises en surbrillance mot par mot
+• Recherche de paroles en ligne facultative, enregistrées dans le morceau pour fonctionner hors ligne
+• Créez vos propres paroles synchronisées en tapant en rythme pendant la lecture
+• Partagez n'importe quelles lignes sous forme d'image de carte de paroles
+
+<b>Bibliothèque</b>
+• Vous choisissez les dossiers, donc les cartes SD fonctionnent sans effort
+• Parcourez par morceaux, albums, artistes, genres, dossiers, années et ajouts récents
+• Playlists intelligentes, avec import et export M3U
+• Éditeur de tags avec recherche en ligne facultative
+
+<b>Lecture et statistiques</b>
+• Six modes aléatoires et Kate Radio, qui enchaîne des morceaux similaires de votre bibliothèque
+• Morceaux, artistes, albums et genres les plus écoutés, ainsi qu'un récapitulatif Wrapped pour n'importe quelle semaine, n'importe quel mois ou n'importe quelle année
+• Des succès comme Oiseau de nuit et Album en entier
+• L'historique d'écoute reste sur votre appareil, et vous pouvez le désactiver ou l'effacer
+
+<b>Partout ailleurs</b>
+• Quatre widgets pour l'écran d'accueil et Android Auto
+• Actions du bouton du casque pour un appui simple, double, triple et long
+• Affichage à deux volets sur les tablettes, les appareils pliables et les grands écrans
+• Sauvegarde et restauration de vos réglages, playlists, favoris et historique
+
+Kate nécessite Android 8.0 ou une version ultérieure.

@@ -1,0 +1,71 @@
+name: Build Kate (arm64-v8a)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v6
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v6
+        with:
+          cache-encryption-key: ${{ secrets.GRADLE_ENCRYPTION_KEY }}
+
+      - name: Cache Android NDK and CMake
+        uses: actions/cache@v6
+        with:
+          path: |
+            /usr/local/lib/android/sdk/ndk/28.2.13676358
+            /usr/local/lib/android/sdk/cmake/3.22.1
+          key: android-ndk-28.2.13676358-cmake-3.22.1
+
+      - name: Cache Gradle Wrapper JAR
+        id: cache-wrapper-jar
+        uses: actions/cache@v6
+        with:
+          path: gradle/wrapper/gradle-wrapper.jar
+          key: gradle-wrapper-jar-${{ hashFiles('gradle/wrapper/gradle-wrapper.properties') }}
+
+      - name: Provision Gradle Wrapper JAR
+        if: steps.cache-wrapper-jar.outputs.cache-hit != 'true'
+        run: |
+          GRADLE_VERSION=$(grep -oP '(?<=gradle-)[0-9]+\.[0-9]+(\.[0-9]+)?(?=-bin\.zip)' gradle/wrapper/gradle-wrapper.properties)
+          cp gradle/wrapper/gradle-wrapper.properties /tmp/gradle-wrapper.properties.bak
+          curl -fL -o /tmp/gradle-bin.zip "https://services.gradle.org/distributions/gradle-${GRADLE_VERSION}-bin.zip"
+          unzip -q /tmp/gradle-bin.zip -d /tmp/gradle-dist
+          "/tmp/gradle-dist/gradle-${GRADLE_VERSION}/bin/gradle" wrapper --gradle-version "$GRADLE_VERSION" --distribution-type bin
+          cp /tmp/gradle-wrapper.properties.bak gradle/wrapper/gradle-wrapper.properties
+
+      - name: Grant Execute Permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Decode Signing Keystore
+        run: |
+          printf '%s' "${{ secrets.BASE_64_SIGNING_KEY }}" | tr -d '\n' | base64 -d > app/release_keystore.jks
+
+      - name: Create local.properties
+        run: printf '%s\n' "${{ secrets.LOCAL_PROPERTIES }}" > local.properties
+
+      - name: Build Release APKs
+        run: ./gradlew assembleGithubRelease -x lintVitalGithubRelease
+
+      - name: List generated APKs
+        run: find app/build/outputs/apk/github/release -name "*.apk" | sort
+
+      - name: Upload arm64-v8a APK
+        uses: actions/upload-artifact@v7
+        with:
+          name: Kate-arm64-v8a
+          path: app/build/outputs/apk/github/release/app-github-arm64-v8a-release.apk
+          if-no-files-found: error

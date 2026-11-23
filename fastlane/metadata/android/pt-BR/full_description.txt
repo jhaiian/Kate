@@ -1,0 +1,43 @@
+O Kate é um player de música de código aberto para as músicas que já estão no seu celular. Sem conta, sem streaming, sem anúncios. Só a sua biblioteca, com um som incrível, letras sincronizadas e um visual que você deixa do seu jeito.
+
+<b>Com a sua cara</b>
+• Seis layouts de player: Clássico, Capa grande, Minimalista, Vinil, Fita cassete e Cartão
+• Cinco barras de progresso, incluindo uma forma de onda gerada a partir de cada música
+• Um visualizador atrás do player, no miniplayer ou atrás da letra
+• Dezenas de cores de destaque, Material You ou cores tiradas da capa do álbum
+• Crie seus próprios temas e estilos com prévia ao vivo e compartilhe como arquivo
+• Suas próprias fontes, estilos de botão, ícones e tamanho de texto
+
+<b>Som</b>
+• Equalizador com predefinições, reforço de graves e agudos e um EQ avançado paramétrico com perfis AutoEQ
+• Um EQ separado para o alto-falante, fones com fio, Bluetooth e áudio USB
+• EQ que acompanha a música: vincule a uma faixa, álbum, pasta ou gênero
+• Crossfeed, dinâmica com modo noturno, compensação de loudness e limitador
+• ReplayGain, crossfade, álbuns sem pausas e mudança de velocidade sem alterar o tom
+• Motor de áudio nativo opcional (Oboe), saída de alta resolução e saída USB bit-perfect no Android 14 ou mais recente
+
+<b>Letras</b>
+• Letras sincronizadas das tags ou de arquivos .lrc, destacadas palavra por palavra
+• Busca de letras online opcional, salvas na música para funcionar offline
+• Crie suas próprias letras sincronizadas tocando na tela enquanto a música toca
+• Compartilhe qualquer trecho como um cartão de letra
+
+<b>Biblioteca</b>
+• Você escolhe as pastas, então cartões SD funcionam sem complicação
+• Navegue por músicas, álbuns, artistas, gêneros, pastas, anos e adicionadas recentemente
+• Playlists inteligentes, além de importação e exportação de M3U
+• Editor de tags com busca online opcional
+
+<b>Reprodução e estatísticas</b>
+• Seis modos aleatórios e a Kate Radio, que continua tocando músicas parecidas da sua biblioteca
+• Suas músicas, artistas, álbuns e gêneros mais ouvidos, além de uma retrospectiva Wrapped de qualquer semana, mês ou ano
+• Conquistas como Coruja da Noite e Álbum Completo
+• O histórico fica só no seu aparelho, e você pode desativar ou apagar quando quiser
+
+<b>Em todo lugar</b>
+• Quatro widgets para a tela inicial e Android Auto
+• Ações do botão do fone para um, dois e três toques e toque longo
+• Layout de dois painéis em tablets, dobráveis e telas largas
+• Backup e restauração de configurações, playlists, favoritos e histórico
+
+O Kate precisa do Android 8.0 ou mais recente.

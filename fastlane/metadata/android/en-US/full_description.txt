@@ -1,0 +1,43 @@
+Kate is an open-source music player for the songs already on your phone. No accounts, no streaming, no ads. Just your library, with great sound, synced lyrics, and a look you can make completely your own.
+
+<b>Looks like yours</b>
+• Six player layouts: Classic, Big Art, Minimal, Vinyl, Cassette, and Card
+• Five seek bars, including a waveform worked out from each song
+• A visualizer behind the player, in the mini player, or behind the lyrics
+• Dozens of accents, Material You, or colors taken from the album art
+• Build your own themes and styles with a live preview, and share them as a file
+• Your own fonts, button styles, icons, and text size
+
+<b>Sound</b>
+• Equalizer with presets, bass and treble boost, and a parametric Advanced EQ with AutoEQ profiles
+• A separate EQ for the speaker, wired headphones, Bluetooth, and USB audio
+• EQ that follows the music: link one to a song, album, folder, or genre
+• Crossfeed, dynamics with a night mode, loudness compensation, and a limiter
+• ReplayGain, crossfade, gapless albums, and speed changes that keep the pitch
+• Optional native audio engine (Oboe), hi-res output, and bit-perfect USB output on Android 14 and newer
+
+<b>Lyrics</b>
+• Synced lyrics from tags or .lrc files, highlighted word by word
+• Optional online lyrics search, saved into the song so they work offline
+• Make your own synced lyrics by tapping along as the song plays
+• Share any lines as a lyric card image
+
+<b>Library</b>
+• You pick the folders, so SD cards just work
+• Browse by songs, albums, artists, genres, folders, years, and recently added
+• Smart playlists, plus M3U import and export
+• Tag editor with optional online lookup
+
+<b>Playing and stats</b>
+• Six shuffle modes and Kate Radio, which keeps going with similar songs from your library
+• Top songs, artists, albums, and genres, plus a Wrapped story for any week, month, or year
+• Achievements like Night Owl and Album Finisher
+• Listening history stays on your device, and you can turn it off or clear it
+
+<b>Everywhere else</b>
+• Four home screen widgets and Android Auto
+• Headset button actions for single, double, triple, and long press
+• Two-pane layout on tablets, foldables, and wide screens
+• Backup and restore for your settings, playlists, favorites, and history
+
+Kate needs Android 8.0 or newer.

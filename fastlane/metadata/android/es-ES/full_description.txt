@@ -1,0 +1,43 @@
+Kate es un reproductor de música de código abierto para las canciones que ya tienes en el móvil. Sin cuentas, sin streaming y sin anuncios. Solo tu biblioteca, con un sonido estupendo, letras sincronizadas y un aspecto que puedes hacer totalmente tuyo.
+
+<b>A tu estilo</b>
+• Seis diseños de reproductor: Clásico, Portada grande, Minimalista, Vinilo, Casete y Tarjeta
+• Cinco barras de progreso, entre ellas una forma de onda calculada para cada canción
+• Un visualizador detrás del reproductor, en el minirreproductor o detrás de la letra
+• Decenas de colores de acento, Material You o colores sacados de la portada del álbum
+• Crea tus propios temas y estilos con vista previa en directo y compártelos como archivo
+• Tus propias fuentes, estilos de botón, iconos y tamaño de texto
+
+<b>Sonido</b>
+• Ecualizador con preajustes, refuerzo de graves y agudos, y un EQ avanzado paramétrico compatible con perfiles AutoEQ
+• Un EQ distinto para el altavoz, los auriculares con cable, el Bluetooth y el audio USB
+• Un EQ que sigue a la música: vincúlalo a una canción, álbum, carpeta o género
+• Crossfeed, dinámica con modo nocturno, compensación de sonoridad y limitador
+• ReplayGain, fundido entre canciones, álbumes sin cortes y cambio de velocidad sin alterar el tono
+• Motor de audio nativo opcional (Oboe), salida de alta resolución y salida USB bit-perfect en Android 14 o superior
+
+<b>Letras</b>
+• Letras sincronizadas desde las etiquetas o archivos .lrc, resaltadas palabra por palabra
+• Búsqueda de letras en internet opcional; se guardan en la canción para que funcionen sin conexión
+• Crea tus propias letras sincronizadas tocando la pantalla mientras suena la canción
+• Comparte cualquier verso como una tarjeta con la letra
+
+<b>Biblioteca</b>
+• Tú eliges las carpetas, así que las tarjetas SD funcionan sin más
+• Explora por canciones, álbumes, artistas, géneros, carpetas, años y añadidas recientemente
+• Listas inteligentes, además de importar y exportar listas M3U
+• Editor de etiquetas con búsqueda en internet opcional
+
+<b>Reproducción y estadísticas</b>
+• Seis modos aleatorios y Kate Radio, que sigue sonando con canciones parecidas de tu biblioteca
+• Tus canciones, artistas, álbumes y géneros más escuchados, y un resumen tipo Wrapped de cualquier semana, mes o año
+• Logros como Noctámbulo o Álbum completo
+• El historial de escucha se queda en tu dispositivo, y puedes desactivarlo o borrarlo
+
+<b>Y en todas partes</b>
+• Cuatro widgets para la pantalla de inicio y Android Auto
+• Acciones del botón de los auriculares para una, dos y tres pulsaciones, y pulsación larga
+• Diseño de dos paneles en tablets, plegables y pantallas anchas
+• Copia de seguridad y restauración de tus ajustes, listas, favoritos e historial
+
+Kate necesita Android 8.0 o superior.

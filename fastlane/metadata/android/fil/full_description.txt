@@ -1,0 +1,43 @@
+Ang Kate ay isang open-source na music player para sa mga kantang nasa phone mo na. Walang account, walang streaming, walang ads. Ang library mo lang, may magandang tunog, synced na liriko, at itsurang kayang-kaya mong gawing sa iyo.
+
+<b>Itsurang sa iyo</b>
+• Anim na layout ng player: Classic, Big Art, Minimal, Vinyl, Cassette, at Card
+• Limang seek bar, kasama ang waveform na kinukuha mula sa bawat kanta
+• Visualizer sa likod ng player, sa mini player, o sa likod ng liriko
+• Napakaraming accent color, Material You, o kulay na hango sa album art
+• Gumawa ng sarili mong tema at style na may live preview, at i-share ito bilang file
+• Sariling font, style ng button, icon, at laki ng text
+
+<b>Tunog</b>
+• Equalizer na may presets, bass at treble boost, at parametric na Advanced EQ na tumatanggap ng AutoEQ profile
+• Hiwalay na EQ para sa speaker, wired headphones, Bluetooth, at USB audio
+• EQ na sumusunod sa tugtog: i-link ito sa kanta, album, folder, o genre
+• Crossfeed, dynamics na may night mode, loudness compensation, at limiter
+• ReplayGain, crossfade, gapless na album, at pagbago ng bilis nang hindi nag-iiba ang tono
+• Opsyonal na native audio engine (Oboe), hi-res output, at bit-perfect USB output sa Android 14 pataas
+
+<b>Liriko</b>
+• Synced na liriko mula sa tag o .lrc file, naka-highlight bawat salita
+• Opsyonal na paghahanap ng liriko online, at sine-save ito sa kanta para gumana kahit offline
+• Gumawa ng sarili mong synced na liriko sa pag-tap habang tumutugtog ang kanta
+• I-share ang kahit anong linya bilang lyric card na larawan
+
+<b>Library</b>
+• Ikaw ang pipili ng mga folder, kaya gumagana agad ang SD card
+• Mag-browse ayon sa kanta, album, artist, genre, folder, taon, at mga bagong dagdag
+• Smart playlists, at puwedeng mag-import at mag-export ng M3U
+• Tag editor na may opsyonal na paghahanap online
+
+<b>Pagtugtog at stats</b>
+• Anim na shuffle mode at Kate Radio, na tuloy-tuloy na nagpapatugtog ng mga kahawig na kanta mula sa library mo
+• Top songs, artists, albums, at genres mo, pati Wrapped para sa kahit anong linggo, buwan, o taon
+• Mga achievement gaya ng Night Owl at Album Finisher
+• Sa device mo lang naka-save ang listening history, at puwede mo itong i-off o burahin
+
+<b>Kahit saan</b>
+• Apat na widget sa home screen at Android Auto
+• Mga aksyon sa headset button para sa isa, dalawa, tatlong pindot, at matagal na pindot
+• Two-pane layout sa tablet, foldable, at malalapad na screen
+• Backup at restore ng settings, playlists, favorites, at history mo
+
+Kailangan ng Kate ang Android 8.0 o mas bago.

@@ -1,0 +1,43 @@
+Kate là trình phát nhạc nguồn mở dành cho những bài hát có sẵn trong điện thoại của bạn. Không cần tài khoản, không phát trực tuyến, không quảng cáo. Chỉ có thư viện nhạc của bạn, với chất âm tuyệt vời, lời bài hát đồng bộ và giao diện bạn có thể tự tay biến thành của riêng mình.
+
+<b>Giao diện theo ý bạn</b>
+• Sáu kiểu trình phát: Cổ điển, Ảnh bìa lớn, Tối giản, Đĩa than, Băng cassette và Thẻ
+• Năm kiểu thanh tua, gồm cả dạng sóng âm được phân tích từ từng bài hát
+• Trình hiển thị âm thanh phía sau trình phát, trong trình phát mini hoặc phía sau lời bài hát
+• Hàng chục màu nhấn, Material You hoặc màu lấy từ ảnh bìa album
+• Tự tạo chủ đề và kiểu giao diện với bản xem trước trực tiếp, rồi chia sẻ dưới dạng tệp
+• Phông chữ, kiểu nút, biểu tượng và cỡ chữ do bạn chọn
+
+<b>Âm thanh</b>
+• Bộ cân bằng âm với các mẫu có sẵn, tăng âm trầm và âm bổng, cùng EQ nâng cao dạng tham số hỗ trợ hồ sơ AutoEQ
+• EQ riêng cho loa ngoài, tai nghe có dây, Bluetooth và âm thanh USB
+• EQ đi theo bản nhạc: gắn với một bài hát, album, thư mục hoặc thể loại
+• Crossfeed, điều chỉnh dải động kèm chế độ ban đêm, bù độ lớn âm thanh và bộ giới hạn
+• ReplayGain, chuyển bài mượt mà, phát album liền mạch và đổi tốc độ mà không đổi cao độ
+• Công cụ âm thanh gốc tùy chọn (Oboe), đầu ra độ phân giải cao và đầu ra USB bit-perfect trên Android 14 trở lên
+
+<b>Lời bài hát</b>
+• Lời đồng bộ từ thẻ nhạc hoặc tệp .lrc, sáng lên theo từng từ
+• Tìm lời bài hát trực tuyến (tùy chọn), lưu thẳng vào bài hát để dùng được cả khi không có mạng
+• Tự tạo lời đồng bộ bằng cách chạm theo nhịp khi bài hát đang phát
+• Chia sẻ bất kỳ dòng nào dưới dạng ảnh thẻ lời bài hát
+
+<b>Thư viện</b>
+• Bạn tự chọn thư mục, nên thẻ nhớ SD dùng được ngay
+• Duyệt theo bài hát, album, nghệ sĩ, thể loại, thư mục, năm và nhạc mới thêm
+• Danh sách phát thông minh, kèm nhập và xuất M3U
+• Trình chỉnh sửa thẻ nhạc, có thể tra cứu trực tuyến
+
+<b>Phát nhạc và thống kê</b>
+• Sáu chế độ phát ngẫu nhiên và Kate Radio, tiếp tục phát những bài tương tự trong thư viện của bạn
+• Bài hát, nghệ sĩ, album và thể loại nghe nhiều nhất, cùng câu chuyện Wrapped cho bất kỳ tuần, tháng hay năm nào
+• Thành tích như Cú đêm và Người nghe trọn album
+• Lịch sử nghe nhạc chỉ nằm trên thiết bị của bạn, bạn có thể tắt hoặc xóa bất cứ lúc nào
+
+<b>Dùng ở mọi nơi</b>
+• Bốn tiện ích màn hình chính và Android Auto
+• Tác vụ nút tai nghe cho nhấn một lần, hai lần, ba lần và nhấn giữ
+• Bố cục hai ngăn trên máy tính bảng, điện thoại gập và màn hình rộng
+• Sao lưu và khôi phục cài đặt, danh sách phát, mục yêu thích và lịch sử
+
+Kate yêu cầu Android 8.0 trở lên.
